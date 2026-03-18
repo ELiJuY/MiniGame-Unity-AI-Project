@@ -102,6 +102,5 @@ InitTestScene*.unity*
 *.psd
 *.tif
 *.exr
-*.png
 Assets/Project/Scenes/*/Lightmap*
 Assets/Project/Scenes/*/LightingData.asset
